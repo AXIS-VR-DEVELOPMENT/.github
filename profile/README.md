@@ -94,20 +94,19 @@ From **real-time anatomical visualization** to **immersive learning environments
 </p>
 
 <p align="center">
-  <img src="https://placehold.co/400" alt="Josu" width="150"><br>
-  <strong>Josu</strong><br>Manager
-</p>
-
-<p align="center">
-  <img src="https://placehold.co/400" alt="Dany Téllez Girón" width="150"><br>
-  <strong>Dany Téllez Girón</strong><br>Developer
-</p>
-
-<p align="center">
   <img src="https://placehold.co/400" alt="Osmar Frausto" width="150"><br>
   <strong>Osmar Frausto</strong><br>Developer
 </p>
 
+<p align="center">
+  <img src="https://placehold.co/400" alt="Alan Fernando" width="150"><br>
+  <strong>Alan Fernando</strong><br>Developer
+</p>
+
+<p align="center">
+  <img src="https://placehold.co/400" alt="Daniel Hurtado" width="150"><br>
+  <strong>Daniel Hurtado</strong><br>Developer
+</p>
 ---
 
 ## 🤝 Get Involved!
