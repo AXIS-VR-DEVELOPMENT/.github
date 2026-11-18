@@ -100,12 +100,12 @@ From **real-time anatomical visualization** to **immersive learning environments
 
 <p align="center">
   <img src="https://placehold.co/400" alt="Alan Fernando" width="150"><br>
-  <strong>Alan Fernando</strong><br>Developer
+  <strong>Alan Fernando</strong><br>Digital Designer
 </p>
 
 <p align="center">
   <img src="https://placehold.co/400" alt="Daniel Hurtado" width="150"><br>
-  <strong>Daniel Hurtado</strong><br>Developer
+  <strong>Daniel Hurtado</strong><br>Digital Designer
 </p>
 ---
 
